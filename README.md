@@ -11,3 +11,4 @@
 
 ![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black) ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vhenriqueortolan)
